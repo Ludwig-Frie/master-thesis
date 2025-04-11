@@ -1,0 +1,3 @@
+[submodule "NeRF"]
+	path = NeRF
+	url = git@github.com:Ludwig-Frie/nerf_object_insertion.git
